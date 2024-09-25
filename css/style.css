@@ -478,6 +478,9 @@
 .service .service-item:hover .service-img::after {
     height: 100%;
 }
+.fondo{
+    background: url(../img/verde.jpg);
+}
 
 .service .service-item .service-img .service-icon {
     position: absolute;
