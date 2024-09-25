@@ -78,13 +78,13 @@
 }
 
 .btn.btn-light {
-    color: var(--bs-primary);
+    color: #0A703c;
     border: none;
 }
 
 .btn.btn-light:hover {
-    color: var(--bs-white);
-    background: var(--bs-dark);
+    color: #f0c313;
+    background: #0A703c;
 }
 
 .btn.btn-dark {
@@ -93,8 +93,8 @@
 }
 
 .btn.btn-dark:hover {
-    color: var(--bs-primary);
-    background: var(--bs-light);
+    color: #0A703c;
+    background: white;
 }
 
 
