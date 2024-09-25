@@ -342,16 +342,18 @@
 /*** Carousel Hero Header End ***/
 
 
-/*** Single Page Hero Header Start ***/
+/*** Single Page Hero Header Start ***/ 
 .bg-breadcrumb {
     position: relative;
     overflow: hidden;
-    background: linear-gradient(#0A703c, rgba(0, 0, 0, 0.2)), url(../img/bg-breadcrumb.jpg);
+    background: url(../img/wallpaper.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
     padding: 60px 0 60px 0;
     transition: 0.5s;
+    height: 30rem;
+   
 }
 
 .bg-breadcrumb .breadcrumb {
@@ -363,7 +365,9 @@
 }
 /*** Single Page Hero Header End ***/
 
-
+.turismo{
+    background: url(../img/cajones.jpg);
+}
 /*** Feature Start ***/
 .feature .feature-item {
     border-radius: 10px;
